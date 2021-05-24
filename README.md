@@ -4,18 +4,17 @@ A template for desktop application with Electron js and React js. Download this 
 cd electron-react-boilerplate   navigate to project directory
 
 
-npm install   to install the dependencies.
+npm install   to install the dependencies (Try with administrator previlege).
+
+
+
+npm run build  to build the app
 
 
 npm run watch   the webpack will continuously check for the changes and reloads. Execute this in separate command prompt.
 
 
 npm start  to start/run the app.
-
-
-
-npm run build  to build the app
-
 
 
 npm run make:win  to create the windows executable.
