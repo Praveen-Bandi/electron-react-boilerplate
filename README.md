@@ -1,5 +1,5 @@
 # electron-react-boilerplate
-A template for desktop application with Electron js and React js. Download this template and execute below commands for running the application.
+A template for desktop application with Electron js and React js. Download this template and execute below commands for running the application. Note that Node.js installation is prerequisite for running this template app.
 
 cd electron-react-boilerplate   navigate to project directory
 
